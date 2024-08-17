@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s021rt6rv4",
+  "description": "https://v2.scrimba.com/s021rt6rv4",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
